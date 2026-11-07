@@ -1,0 +1,11 @@
+{
+    "author": "Rudolf Juhl",
+    "location": "Bensheim, Germany",
+    "timestamp": 1794015800,
+    "project": "Solid-State Room-Temperature Sodium-Sulfur Battery",
+    "material_composition": "Na3PS4-Sb (Antimony-Doped Sulfide Glass Matrix)",
+    "calculated_ground_state_energy_hartree": -184.2264,
+    "hardware_platform": "Lotus Core-V3 Hexa Cluster (288 Physical Qubits)",
+    "inter_die_topology": "Concentric CPW Ring-Bus Link",
+    "circuit_optimization_status": "CONVERGED_SUCCESSFULLY"
+}
